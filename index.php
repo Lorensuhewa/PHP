@@ -1,6 +1,6 @@
 <?php
-    echo "I love PHP! <br>";
-    echo "It's a great language for web development. <br>";
+    echo "Hello <br>";
+    echo "Welcome sanaka Lorensuhewa PHP lessons <br>";
 ?>
 
 <!DOCTYPE html>
@@ -11,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-    <button>Order pitzza</button>
+    <h1>Welcome to PHP</h1>
 </body>
 </html>
